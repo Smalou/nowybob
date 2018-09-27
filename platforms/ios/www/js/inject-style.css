@@ -1,0 +1,154 @@
+.backstretch {
+  display: none;
+}
+
+.LoginBox{
+  background:#3CB125;
+  width: 80% !important;
+  margin-left: 10%;
+  top: 23%;
+  padding: 0px;}
+
+  div.LoginBox{
+    margin: 0 auto;
+  }
+
+
+body{
+  background:#3DB024;}
+
+img#innerMonogram{
+  display:none !important;}
+
+h1{
+  display:none;}
+
+input#submitFrmShared.affiliatebutton{
+  background: white;
+  color: #3CB125;
+  border: none;
+  border-radius: 0;}
+
+#mobileHeader{
+  /*position: fixed;*/
+  top: 5%;
+  width: 100%;
+  line-height: 44px;
+  font-size: 25px;
+  text-align: center;
+  background: none;
+  color: white;
+  font-weight: bold;
+  -webkit-order: 2;}
+
+.footer{
+  /*position: absolute;
+  bottom: 0%;}*/
+  display: none;}
+
+#signon input#username{
+  border-radius: 25px 25px 0px 0px;
+  margin-bottom: 0px;
+  border: 3px solid #A0A49F;
+  border-bottom: 1px solid blue !important;
+  padding: 20px;
+  margin-right: 0;
+  box-sizing: border-box;}
+
+  #signon input#password{
+    border-radius: 0px 0px 25px 25px;
+    border: 3px solid #A0A49F;
+    border-top: none !important;
+ }
+
+  #signon input#username, #signon input#password{
+    padding: 20px;
+    margin-right: 0;
+    box-sizing: border-box;
+    max-width: none;
+  }
+
+  #image1 {
+    position: relative;
+    top: 8%;
+    background: none;
+    display: block;
+    margin: 0 auto;
+    height: 100px;
+  }
+
+
+  #image2{
+    position: relative;
+    background: none;
+    display: block;
+    margin: 0 auto;
+    height: 100px;
+    bottom: 0;
+    left: 50%;
+    margin-left: -50px
+  }
+
+
+  #image3{
+    position: relative;
+    background: none;
+    display: block;
+    margin: 0 auto;
+    height: 30px;
+    top: 40%;
+  }
+
+  img#image2{
+    top: 80px;
+  }
+
+  img#image3{
+    top: 60px;
+  }
+
+  td.mContent{
+    text-align: center;
+    display: block;
+}
+
+div.loginFrm{
+  margin: 0 auto;
+}
+
+#signon .login{
+  -webkit-appearance: none;
+  margin: 0 auto;
+  display: block;
+  border-radius: 20px;
+  margin-top: 50px;
+  font-size: 12px;
+  text-align: center;
+  border: 3px solid #A0A49F;;
+  padding: 12px;
+  background-color: white;
+  color: #A0A49F;
+  font-weight: 200;
+  font-size: 14px;
+  width: 85%;
+}
+
+#signon{
+  margin-top: 30px;
+}
+
+.sharedbutton{
+  -webkit-appearance: none;
+  margin: 0 auto;
+  display: block;
+  border-radius: 20px;
+  font-size: 12px;
+  text-align: center;
+  border: 3px solid #A0A49F;;
+  padding: 12px;
+  background-color: white;
+  color: #A0A49F;
+  font-weight: 200;
+  font-size: 14px !important;
+  width: 85%;
+}

@@ -1,0 +1,30 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-appavailability": {
+      "PACKAGE_NAME": "gehc.platforms.bob"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "gehc.platforms.bob"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "gehc.platforms.bob"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "gehc.platforms.bob"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "gehc.platforms.bob"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "gehc.platforms.bob"
+    }
+  },
+  "dependent_plugins": {}
+}
