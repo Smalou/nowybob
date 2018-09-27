@@ -74,5 +74,5 @@
     <plugin name="cordova-plugin-splashscreen" spec="~4.0.0" />
     <plugin name="cordova-plugin-appavailability" spec="~0.4.2" />
     <engine name="android" spec="^7.0.0" />
-    <engine name="ios" spec="~4.5.5" />
+    <engine name="ios" spec="^4.5.5" />
 </widget>

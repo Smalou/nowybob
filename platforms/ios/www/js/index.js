@@ -38,7 +38,7 @@ var app = {
       else
       {
         console.log("weszlo do elsa...")
-        var ref = cordova.InAppBrowser.open('http://vdctld06581.ics.cloud.ge.com, '_blank', 'location=no,toolbar=no,hidden=yes');
+        var ref = cordova.InAppBrowser.open('http://vdctld06581.ics.cloud.ge.com', '_blank', 'location=no,toolbar=no,hidden=yes');
            ref.show();
 
         ref.addEventListener('loadstart', function(event) {
